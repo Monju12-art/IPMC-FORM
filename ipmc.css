@@ -1,0 +1,58 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1em;
+  width: 70%;
+  margin-left: 10em;
+  background-image: linear-gradient(rgb(103, 10, 10), red, rgb(88, 11, 11));
+}
+
+.hey {
+  background-color: white;
+  box-shadow: 3px 3px white;
+  margin-top: 30px;
+  border: 5px inset #f00f;
+  border-radius: 3em 0em;
+  margin-left: 5em;
+}
+
+.goat {
+  justify-content: center;
+  padding-left: 14rem;
+  align-items: center;
+  margin: 0%;
+}
+
+input {
+  border: 3px, inset, red;
+  border-radius: 4px;
+  padding: 9px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.me {
+  width: 30em;
+}
+
+#code {
+  border: 3px inset red;
+  height: 2.8em;
+  border-radius: 3px;
+}
+
+#submit {
+  background-color: #007af3;
+  border-radius: 19px;
+  font-size: 1.2em;
+  color: #fff;
+  font-weight: bolder;
+
+  padding: 0.3em 6em;
+  border: none;
+  cursor: pointer;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 3em;
+}
